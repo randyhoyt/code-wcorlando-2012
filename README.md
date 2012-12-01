@@ -18,6 +18,7 @@ the three examples used.
     - Upload the wp-content folder inside the 1-post-meta-field folder.
     - Activate the Conference plugin.
     - Activate the Conference child theme.
+    - Go to Settings > Permalinks and click Save Changes.
     
 2. Custom Relationship Table
     - Deactivate the Conference plugin above.
@@ -25,12 +26,14 @@ the three examples used.
     - Upload the wp-content folder inside the 2-custom-relationship-table folder.
     - Activate the Movies plugin.
     - Activate the Movies child theme.
+    - Go to Settings > Permalinks and click Save Changes.    
     
 2. Custom Relationship Table
     - Deactivate the Conference and Movie plugins above.
     - Install and activate the Subordinate Post Type Helpers plugin.
     - Upload the wp-content folder inside the 3-post-parent-field folder.
-    - Activate the Groups plugin.
+    - Activate the Mythopoeic Society Groups plugin.
+    - Go to Settings > Permalinks and click Save Changes.    
     
 
 === REQUIREMENTS ===
