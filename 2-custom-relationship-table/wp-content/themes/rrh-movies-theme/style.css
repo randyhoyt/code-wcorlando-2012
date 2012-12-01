@@ -1,0 +1,38 @@
+/*
+Theme Name: Movie Database Theme
+Author: Randy Hoyt
+Author URI: http://randyhoyt.com/
+Description: This child theme adds single templates to 2011 for movies and people.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: twentyeleven
+
+*/
+
+@import url("../twentyeleven/style.css");
+
+body.single-rrh_movie #primary,
+body.single-rrh_person #primary {
+    margin: 0 -26.4% 0 0;
+}
+body.singular.single-rrh_movie #content,
+body.singular.single-rrh_person #content {
+    margin: 0 34% 0 7.6%;
+    width: 58.4%;
+}
+body.singular.single-rrh_movie .hentry,
+body.singular.single-rrh_person .hentry  {
+    padding-top: 0;
+}
+body.singular.single-rrh_movie .entry-header,
+body.singular.single-rrh_movie .entry-content,
+body.singular.single-rrh_person .entry-header,
+body.singular.single-rrh_person .entry-content {
+    width: auto;
+}
+body.singular.single-rrh_person .entry-title,
+body.singular.single-rrh_movie .entry-title {
+    font-size: 26px;
+    line-height: 1.5em;
+}

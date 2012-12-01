@@ -1,0 +1,12 @@
+/*
+Theme Name: Conference Theme
+Author: Randy Hoyt
+Author URI: http://randyhoyt.com/
+Description: This child theme adds single templates to 2012 for speakers and talks.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: twentytwelve
+*/
+
+@import url("../twentytwelve/style.css");
